@@ -1,0 +1,10 @@
+<config>
+        <extensions>
+            <extension>
+            <className>org.microemu.cldc.file.FileSystem</className>
+            <properties>
+                        <property NAME="fsRoot" VALUE="C:/"/>
+                </properties>
+            </extension>
+        </extensions>
+<config>

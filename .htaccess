@@ -1,0 +1,10 @@
+AddDefaultCharset UTF-8
+DirectoryIndex index.php
+Addtype application/octet-stream .bas 
+Addtype text/java .lis
+#php_flag display_errors 0
+#php_value error_reporting 7
+
+
+
+ErrorDocument 404 http://mbteam.ru

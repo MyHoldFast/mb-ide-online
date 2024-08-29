@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /res
+Disallow: /jar
+Disallow: /src
+Disallow: /temp
